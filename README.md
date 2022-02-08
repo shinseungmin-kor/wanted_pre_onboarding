@@ -1,5 +1,7 @@
 # wanted_pre_onboarding
 
+![](https://user-images.githubusercontent.com/79869058/152924513-2842ca76-b1aa-46a8-ac50-2baece1dcea6.gif)
+
 ## 1. Toggle
 
 ### 구현방법
@@ -23,6 +25,9 @@ useState 로 토글의 on/off 상태를 추가한다. 이 값은 boolean 형태�
 <br />
 <br />
 
+![](https://user-images.githubusercontent.com/79869058/152924802-9aaa880f-1451-4ceb-a474-e0bcc5b01719.gif)
+
+
 ## 2. Modal
 
 ### 구현방법
@@ -36,6 +41,9 @@ useState 로 토글의 on/off 상태를 추가한다. 이 값은 boolean 형태�
 
 <br />
 <br />
+
+![](https://user-images.githubusercontent.com/79869058/152925114-11867ebb-1a3d-4dff-96ea-69beaf13bf7c.gif)
+
 
 ## 3. Tab
 
@@ -55,6 +63,9 @@ map에는 해당 배열의 요소를 확인하는 el과, 배열의 인덱스를 
 <br />
 <br />
 
+![](https://user-images.githubusercontent.com/79869058/152925145-3636586c-1e62-4411-8362-2ebe27f2ec73.gif)
+
+
 ## 4. Tag
 
 ### 구현방법
@@ -71,6 +82,9 @@ map에는 해당 배열의 요소를 확인하는 el과, 배열의 인덱스를 
 <br />
 <br />
 
+![](https://user-images.githubusercontent.com/79869058/152925156-0b09165c-ce36-4af4-928e-4e817de9e296.gif)
+
+
 ## 5. AutoComplete
 
 ### 구현방법
@@ -84,6 +98,9 @@ map에는 해당 배열의 요소를 확인하는 el과, 배열의 인덱스를 
 
 <br />
 <br />
+
+![](https://user-images.githubusercontent.com/79869058/152925202-932012cd-84d8-4391-9e31-bec6e5aa03e0.gif)
+
 
 ## 6. ClickToEdit
 
